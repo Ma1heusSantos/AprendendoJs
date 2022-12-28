@@ -1,0 +1,1 @@
+simples contador de cliques, ultilizado para aprender como se conectar um arquivo Javascript e como selecionar elementos no HTML.
