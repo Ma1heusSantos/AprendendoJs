@@ -11,4 +11,4 @@ btn.addEventListener('click',function contar(){
 reset.addEventListener('click',function resetar(){
       p.innerHTML = 0;
       cont = 0;
-})
+});
